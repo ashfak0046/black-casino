@@ -28,6 +28,10 @@
 #nav-links li a {
   text-decoration: none;
   color: #fff;
+  transition: 0.5s all ease;
+}
+#nav-links li a:hover {
+  font-size: 18px;
 }
 #nav-links {
   color: #ffff;
